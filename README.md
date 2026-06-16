@@ -1,4 +1,6 @@
-Hybrid Incident Response Agent: An Intelligent AI-Based Cybersecurity Framework
+HYBRID INCIDENT RESPONSE AGENT: AN INTELLIGENT AI-BASED CYBERSECURITY FRAMEWORK
+
+
 Overview
 
 The Hybrid Incident Response Agent (HIRA) is an AI-driven cybersecurity framework designed to automate incident detection, analysis, prioritization, and response. The system combines multiple Artificial Intelligence techniques including Search Algorithms, Constraint Satisfaction Problems (CSP), Bayesian Inference, Utility-Based Decision Making, and Explainable AI (XAI) to improve the efficiency and effectiveness of Security Operations Centers (SOC).
@@ -190,29 +192,6 @@ Federated threat intelligence sharing
 Integration with SOAR platforms
 Generative AI incident reporting
 Real-time streaming analytics
-
-Repository Structure
-
-Hybrid-Incident-Response-Agent/
-│
-├── docs/
-│   ├── Presentation.pptx
-│   ├── Project_Report.pdf
-│
-├── src/
-│   ├── search_algorithms.py
-│   ├── csp_scheduler.py
-│   ├── utility_engine.py
-│   ├── bayesian_engine.py
-│   └── xai_module.py
-│
-├── diagrams/
-│   ├── architecture.png
-│   ├── attack_graph.png
-│   └── bayesian_network.png
-│
-├── README.md
-└── requirements.txt
 
 License
 
