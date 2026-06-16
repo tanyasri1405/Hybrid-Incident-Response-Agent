@@ -1,0 +1,2 @@
+# Educational prototype (no external deps)
+
