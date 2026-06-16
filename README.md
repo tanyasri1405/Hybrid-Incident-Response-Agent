@@ -63,46 +63,6 @@ Transparent recommendations
 Human-readable explanations
 Audit-friendly decision logs
 
-System Architecture
-┌──────────────────────┐
-│ Security Data Sources│
-│ IDS | SIEM | EDR     │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Search Engine Layer  │
-│ BFS | DFS | A* | UCS │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Bayesian Engine      │
-│ Threat Assessment    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ CSP Scheduler        │
-│ Resource Allocation  │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Utility Engine       │
-│ Response Selection   │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Explainable AI Layer │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ Automated Response   │
-└──────────────────────┘
-
 Course Outcome Mapping
 
 CO1: Intelligent Agent Design
